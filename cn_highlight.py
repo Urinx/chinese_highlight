@@ -93,7 +93,7 @@ chinese c9{
 		<!-- Insert here -->
 		</center>
 	</chinese>
-	<footer style="position:absolute;bottom:0;right:10px"><a href="http://github.com/urinx"><img src="http://github.com/urinx/chinese_highlight/img/gitimg.jpg" width="50px" height="50px"></a><p style="font-size:12px;font-weight:bold">Follow Me</p></footer>
+	<footer style="position:absolute;bottom:0;right:10px"><a href="http://github.com/urinx"><img src="http://paiplace.5gbfree.com/wechat/img/gitimg.jpg" width="50px" height="50px"></a><p style="font-size:12px;font-weight:bold">Follow Me</p></footer>
 </body>
 </html>
 """
