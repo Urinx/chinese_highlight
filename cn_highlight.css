@@ -1,0 +1,50 @@
+chinese{
+	display: block;
+	width: 30em;
+	height: 20em;
+	background-color: rgb(39,40,34);
+	border-radius: 1px;
+	box-shadow: 3px 3px 4px rgb(39,40,34),-3px 3px 4px rgb(39,40,34),3px -3px 4px rgb(39,40,34),-3px -3px 4px rgb(39,40,34);
+	padding: 10px;
+	overflow: hidden;
+	word-wrap:break-word;
+	color: white;
+	font-size: 20px;
+}
+chinese c0{
+	color: cyan;
+}
+chinese c1{
+	color: deeppink;
+}
+chinese c2{
+	color: gold;
+}
+chinese c3{
+	color: silver;
+}
+chinese c4{
+	color: darkviolet;
+}
+chinese c5{
+	color: lawngreen;
+}
+chinese c6{
+	color: sandybrown;
+}
+chinese c7{
+	color: mediumblue;
+}
+chinese c8{
+	color: red;
+}
+chinese c9{
+	color: sienna;
+}
+chinese table{
+	width: 400px;
+	height: 200px;
+	margin: auto;
+	font-size: 20px;
+	padding: 20px;
+}
