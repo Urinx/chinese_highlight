@@ -6,8 +6,8 @@ chinese_highlight
 
 ###Usage:
 <pre>
-<script type="text/javascript" src="http://paiplace.5gbfree.com/github/cn_highlight.js"></script>
-<chinese>将要语法高亮的中文放到该标签里即可</chinese>
+&lt;script type="text/javascript" src="http://paiplace.5gbfree.com/github/cn_highlight.js"&gt;&lt;/script&gt;
+&lt;chinese&gt;将要语法高亮的中文放到该标签里即可&lt;/chinese&gt;
 </pre>
 
 ##cn_highlight.py
