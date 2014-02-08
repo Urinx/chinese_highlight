@@ -20,7 +20,7 @@ var cn_highlight=function(){
 	var css=document.createElement('link');
 	css.setAttribute('rel','stylesheet');
 	css.setAttribute('type','text/css');
-	css.setAttribute('href','cn_highlight.css');
+	css.setAttribute('href','http://paiplace.5gbfree.com/github/cn_highlight.css');
 	document.querySelector('head').appendChild(css);
 	ajax('http://we4test.sinaapp.com/segment.php',chinese.innerHTML,highlightEngine);
 }
